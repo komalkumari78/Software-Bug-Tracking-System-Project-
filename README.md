@@ -4,19 +4,19 @@ A console-based Python application to report, track, assign, and resolve softwar
 
 ## Features
 
-- **Tester**
+ **Tester**
  - Report Bug
  - View My Bugs
  - Add Comment
 
-- **Developer**
+ **Developer**
 
  - Claim Bug
  - Update Status
  - View Assigned Bugs
  - Resolve Bug
 
-- **Manager**
+ **Manager**
  - View Dashboard
  - Assign Bug
  - Generate CSV Report
@@ -51,5 +51,5 @@ A console-based Python application to report, track, assign, and resolve softwar
 ## Installation
 Clone this repository:
 ```bash
-git clone https://github.com/komalkumari78/Software-Bug-Tracking-System-Project.git
+git clone https://github.com/komalkumari78/Software-Bug-Tracking-System-Project-.git
 cd Software-Bug-Tracking-System-Project
